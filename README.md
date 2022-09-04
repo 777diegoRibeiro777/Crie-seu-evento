@@ -1,5 +1,5 @@
 # Crie-seu-evento
-Essa aplicação foi desenvolvida a partir do treinamento Explorer da Rocketseat utilizando somente HTML e CSS. O objetivo principal do projeto era criar um formulário, sendo que, a mesma utiliza conceitos fundamentais das tecnologias (como boxmodel, flexbox, estilização de butões, personalização de textos, HTML semantico, utilização e estilizção de inputs, submeter um form a partir de um button).   
+Essa aplicação foi desenvolvida a partir do treinamento Explorer da Rocketseat utilizando somente HTML e CSS. O objetivo principal do projeto era criar um formulário, sendo que, a mesma utiliza conceitos fundamentais das tecnologias (como boxmodel, flexbox, estilização de botões, personalização de textos, HTML semantico, utilização e estilização de inputs, submeter um form a partir de um button).   
 
 ## Tecnologias usadas
 HTML
